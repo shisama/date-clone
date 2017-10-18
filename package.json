@@ -1,0 +1,30 @@
+{
+  "name": "date-clone",
+  "version": "1.0.0",
+  "description": "cloning date object as own method",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shisama/date-clone.git"
+  },
+  "keywords": [
+    "date",
+    "clone",
+    "copy",
+    "date-clone",
+    "date-copy",
+    "deep-copy"
+  ],
+  "author": "Masashi Hirano (https://github.com/shisama)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shisama/date-clone/issues"
+  },
+  "homepage": "https://github.com/shisama/date-clone#readme",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
