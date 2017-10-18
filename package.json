@@ -1,7 +1,7 @@
 {
   "name": "date-clone",
-  "version": "1.0.0",
-  "description": "cloning date object as own method",
+  "version": "1.0.1",
+  "description": "cloning date object as own method. `const copy = original.clone()`",
   "main": "index.js",
   "scripts": {
     "test": "ava **/*.test.js"
